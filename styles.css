@@ -5,6 +5,7 @@ body {
     background-color: #f5f5f5;
     margin: 0;
     padding: 0;
+    background-image: url(BeeWallpaper.jpg);
 }
 
 .container {
@@ -15,6 +16,7 @@ body {
     background: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
+    border: #333;
 }
 
 h1 {
@@ -49,6 +51,7 @@ h1 {
 .option-btn:hover {
     background-color: #2980b9;
 }
+#question{ color: red;}
 
 /* Timer */
 .timer {
